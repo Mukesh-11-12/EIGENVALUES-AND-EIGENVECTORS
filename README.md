@@ -24,8 +24,8 @@ End the Program
 ## Program:
 ```
 # Program to find the eigen values and eigen vectors
-# Developed by:
-# RegisterNumber:
+# Developed by: MUKESH D
+# RegisterNumber:212224040204
 
 import numpy as np
 
